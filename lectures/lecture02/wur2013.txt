@@ -466,7 +466,7 @@ qsrank	schoolname	qsstars	overall	academic	employer	faculty	international	intern
 465	Renmin (People’s) University of China		29.60	0.00	55.70	48.10	8.70	16.70	3.80	0.00	0.00	0.00	0.00	64.20
 466	Universidad de Costa Rica		29.70	38.80	0.00	48.40	0.00	1.80	2.80	0.00	0.00	0.00	0.00	0.00
 467	Universidad de Santiago de Chile - USACH		29.30	47.20	51.30	16.00	11.90	1.30	6.50	0.00	0.00	0.00	0.00	0.00
-468	University of Cincinnati		29.40	0.00	0.00	47.40	21.00	17.60	51.90	0.00	0.00	62.40	0.00	0.00
+468	University of Cincinnati		29.40	0.00	0.00	47.40	21.00	17.60	51.90	0.00	0.00	62.40	0.00	0.00  0.00
 469	University of Guelph		29.20	0.00	39.60	19.40	54.20	18.40	43.10	41.40	0.00	62.10	0.00	0.00
 470	University of Tartu		29.60	0.00	0.00	48.80	22.10	8.20	20.20	50.30	0.00	0.00	0.00	53.60
 471	American University		29.00	0.00	45.40	47.40	14.90	41.40	6.20	0.00	0.00	0.00	0.00	60.90
